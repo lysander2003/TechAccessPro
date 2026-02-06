@@ -35,4 +35,9 @@ When a valid card is detected, the microcontroller activates the door locking me
 - Display Module: 16x2 LCD
 - Hardware: RFID reader, door lock actuator/relay
 
+# Applications
+- Office entry systems
+- Lab security
+- Smart home access control
+- Restricted area monitoring
   
